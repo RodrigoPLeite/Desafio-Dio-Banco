@@ -3,4 +3,4 @@
 
 ## Conta Bancária.
 
-#### Código para criar contas bancárias e fazer algumas operações básicas.
+#### Código para criar contas bancárias e fazer algumas operações básicas, com o uso de Lombok.
